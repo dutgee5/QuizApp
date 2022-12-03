@@ -12,7 +12,7 @@ namespace QuizApp
         public string Answer { get; set; }
         
 
-
+         
 
 
         public Question(int questionnmber,string text,string[] choices,string answer)
